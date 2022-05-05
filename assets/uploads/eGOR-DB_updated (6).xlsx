@@ -1,0 +1,119 @@
+eGOR-DB_updated.xlsxhttps://eotd.org/egor_revamp/assets/uploads/eGOR-DB_updated.xlsx
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: filepath</p>
+<p>Filename: controllers/Editorg.php</p>
+<p>Line Number: 466</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/eotd/public_html/egor_revamp/application/controllers/Editorg.php<br />
+			Line: 466<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/eotd/public_html/egor_revamp/index.php<br />
+			Line: 318<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  readfile(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0</p>
+<p>Filename: controllers/Editorg.php</p>
+<p>Line Number: 470</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/eotd/public_html/egor_revamp/application/controllers/Editorg.php<br />
+			Line: 470<br />
+			Function: readfile			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/eotd/public_html/egor_revamp/index.php<br />
+			Line: 318<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  readfile(https://eotd.org/egor_revamp/assets/uploads/eGOR-DB_updated.xlsx): failed to open stream: no suitable wrapper could be found</p>
+<p>Filename: controllers/Editorg.php</p>
+<p>Line Number: 470</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/eotd/public_html/egor_revamp/application/controllers/Editorg.php<br />
+			Line: 470<br />
+			Function: readfile			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/eotd/public_html/egor_revamp/index.php<br />
+			Line: 318<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
